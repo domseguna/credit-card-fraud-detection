@@ -2,7 +2,7 @@
 Machine learning-based credit card fraud detection using Random Forest on imbalanced dataset
 
 ## Key Results 
-  - **Random Forest** detected **73 out of 98 fraudulent transaction (74.5% recall)
+  - **Random Forest** detected **73 out of 98**fraudulent transaction (74.5% recall)
   - Achieved **96% precision**  with only **3 false positives**
   - Logistic Regression baseline detected only **2** fraud cases
 
